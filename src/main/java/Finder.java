@@ -13,15 +13,13 @@ public class Finder {
 
     public Integer findMax(int[] intArray) {
         if(intArray == null) {
-            System.out.println("Return null since the array is empty.");
-            return null;
-        }
-
-        else if(intArray.length == 0) {
             System.out.println("Return null since the array is null.");
             return null;
         }
-
+        else if(intArray.length == 0) {
+            System.out.println("Return null since the array is empty.");
+            return null;
+        }
         int max = intArray[0];
 
         for(int i = 0;i < intArray.length;i++ ) {
@@ -35,12 +33,14 @@ public class Finder {
 
     public Integer findMin(int[] intArray) {
         if (intArray == null) {
-            System.out.println("Return null since the array is empty.");
-            return null;
-        } else if (intArray.length == 0) {
             System.out.println("Return null since the array is null.");
             return null;
-        } else {
+        }
+        else if (intArray.length == 0) {
+            System.out.println("Return null since the array is empty.");
+            return null;
+        }
+        else {
             int min = intArray[0];
         for (int i = 0; i < intArray.length; i++) {
             if (min > intArray[i]) {

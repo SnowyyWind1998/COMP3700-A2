@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a3b7186-68a2-47a4-9c32-71e7e21c6c40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST RESULT.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/TEST RESULT.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Finder.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -31,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Finder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            <state relative-caret-position="353">
+              <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
               <folding>
                 <element signature="e#315#316#0" expanded="true" />
                 <element signature="e#368#369#0" expanded="true" />
@@ -170,14 +170,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566956173224</updated>
-      <workItem from="1566956176797" duration="3525000" />
+      <workItem from="1566956176797" duration="3689000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JUnitTest - 2019.08.27 at 21h 13m 43s.xml">
-      <configuration name="JUnitTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="JUnitTest - 2019.08.27 at 21h 15m 14s.xml">
       <configuration name="JUnitTest" configurationId="JUnit" />
     </history-entry>
@@ -205,9 +202,12 @@
     <history-entry file="JUnitTest - 2019.08.27 at 21h 34m 11s.xml">
       <configuration name="JUnitTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="JUnitTest - 2019.08.27 at 21h 37m 21s.xml">
+      <configuration name="JUnitTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3525000" />
+    <option name="totallyTimeSpent" value="3689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="34" width="1719" height="932" extended-state="6" />
@@ -268,8 +268,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Finder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="353">
+          <caret line="39" column="68" selection-start-line="39" selection-start-column="68" selection-end-line="39" selection-end-column="68" />
           <folding>
             <element signature="e#315#316#0" expanded="true" />
             <element signature="e#368#369#0" expanded="true" />
